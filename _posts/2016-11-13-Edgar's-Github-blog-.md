@@ -1,5 +1,5 @@
 ---
-title: Blog 
+title: Edgar's Github blog 
 layout: post
 author: edgar.wex
 permalink: /edgar's-github-blog-/
