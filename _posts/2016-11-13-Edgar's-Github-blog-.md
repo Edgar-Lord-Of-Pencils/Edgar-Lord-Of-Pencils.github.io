@@ -1,5 +1,5 @@
 ---
-title: Edgar's Github blog 
+title: Edgar's Github blog 2 
 layout: post
 author: edgar.wex
 permalink: /edgar's-github-blog-/
@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Github blog</td>
+    <td>Github blog 2</td>
     <td>Date</td>
     <td>07/011/16</td>
   </tr>
